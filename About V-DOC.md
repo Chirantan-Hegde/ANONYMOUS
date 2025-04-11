@@ -75,7 +75,7 @@ V-DOC is an advanced AI-powered virtual healthcare assistant designed to functio
   <li>
     <h4>AI-Powered Symptom Checker  </h4>
     <ul type=circle>
-      <li>Probable conditions.<li>
+      <li>Probable conditions.</li>
       <li>Risk factors.</li>
    </ul>
   </li>
