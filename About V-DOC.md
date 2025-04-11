@@ -28,6 +28,7 @@ V-DOC is an advanced AI-powered virtual healthcare assistant designed to functio
 <li> Travel Companion – Acts as a digital doctor on the go.</li>
 <br>
 
+
 <br>
 <h2>Benefits</h2>
 <li> Accessible 24/7 – No need to wait in hospital queues.</li>
@@ -39,5 +40,21 @@ V-DOC is an advanced AI-powered virtual healthcare assistant designed to functio
 <li> Highly Scalable – Can be deployed in hospitals, homes, even workplaces.</li>
 <br>
 <li> Educational – Helps users understand their health better.</li>
+<br>
+
+
+<br>
+<h2>Features</h2>
+<ol type=1>
+  <li>
+    <h4>Smart Health Tracker</h4>
+    <ul type=circle>
+      <li>Integrates with wearable devices</li>
+      <li>Alerts users or caregivers about abnormal patterns.</li>
+      <li>Continuously monitoring</li>
+    </ul>
+  </li>
+  
+</ol>
 
 
