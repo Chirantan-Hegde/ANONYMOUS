@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>V-DOC Login</title>
+    <link rel="stylesheet" href="login.css" />
+    <style>
+      body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f7fa;
+      }
+      
+      .title {
+        text-align: center;
+        color: #2c7be5;
+        margin-top: 30px;
+        font-size: 36px;
+      }
+      
+      .title .v {
+        color: #2c7be5;
+      }
+      
+      .title .doc {
+        color: #e63757;
+      }
+      
+      .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 70vh;
+      }
+      
+      .loginpage {
+        background: white;
+        padding: 30px;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        width: 350px;
+        text-align: center;
+      }
+      
+      input {
+        width: 100%;
+        padding: 12px;
+        margin: 10px 0;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      
+      .button {
+        width: 100%;
+        padding: 12px;
+        margin: 15px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-weight: bold;
+      }
+      
+      .button1 {
+        background-color: #2c7be5;
+        color: white;
+      }
+      
+      .button1:hover {
+        background-color: #1a5cb8;
+      }
+      
+      .button1:disabled {
+        background-color: #95aac9;
+        cursor: not-allowed;
+      }
+      
+      a {
+        color: #2c7be5;
+        text-decoration: none;
+        font-size: 14px;
+      }
+      
+      a:hover {
+        text-decoration: underline;
+      }
+      
+      hr {
+        margin: 20px 0;
+        border: 0;
+        height: 1px;
+        background-color: #eee;
+      }
+      
+      .createaccount {
+        color: #ffffff;
+        font-weight: bold;
+        cursor: pointer;
+      }
+      
+      .createaccount:hover {
+        text-decoration: underline;
+      }
+      
+      .error {
+        color: #e63757;
+        font-size: 14px;
+        margin-top: 5px;
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="title">V-DOC</h1>
+    
+    <div class="container">
+      <div class="loginpage">
+        <form id="loginForm">
+          <input type="text" id="username" placeholder="Username" required>
+          <div id="usernameError" class="error">Username is required</div>
+          
+          <input type="password" id="password" placeholder="Password" required>
+          <div id="passwordError" class="error">Password is required</div>
+          
+          <button type="submit" id="submitBtn" class="button button1" disabled>LOGIN</button>
+        </form>
+        
+        <a href="forgot1.html">Forgot Password?</a>
+        <hr>
+        <div class="createaccount">Create New V-DOC ID</div>
+      </div>
+    </div>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const loginForm = document.getElementById('loginForm');
+        const usernameInput = document.getElementById('username');
+        const passwordInput = document.getElementById('password');
+        const submitBtn = document.getElementById('submitBtn');
+        const usernameError = document.getElementById('usernameError');
+        const passwordError = document.getElementById('passwordError');
+        
+        // Function to validate inputs
+        function validateInputs() {
+          let isValid = true;
+          
+          // Validate username
+          if (usernameInput.value.trim() === '') {
+            usernameError.style.display = 'block';
+            isValid = false;
+          } else {
+            usernameError.style.display = 'none';
+          }
+          
+          // Validate password
+          if (passwordInput.value.trim() === '') {
+            passwordError.style.display = 'block';
+            isValid = false;
+          } else {
+            passwordError.style.display = 'none';
+          }
+          
+          // Enable/disable submit button
+          submitBtn.disabled = !isValid;
+          
+          return isValid;
+        }
+        
+        // Real-time validation on input
+        usernameInput.addEventListener('input', validateInputs);
+        passwordInput.addEventListener('input', validateInputs);
+        
+        // Form submission
+        loginForm.addEventListener('submit', function(e) {
+          e.preventDefault();
+          
+          if (validateInputs()) {
+            // In a real app, you would validate credentials with the server here
+            // For demo purposes, we'll just redirect
+            window.location.href = 'index.html';
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,20 @@
+{
+    "name": "v-doc-backend",
+    "version": "1.0.0",
+    "description": "Backend for V-DOC Doctor Dashboard",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
+      "mongoose": "^7.6.5",
+      "socket.io": "^4.7.2"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.2"
+    }
+  }

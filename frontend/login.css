@@ -1,0 +1,122 @@
+*{
+    margin:0.8%;
+    padding:0;
+  }
+  body{
+    height:100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url(bg.jpg);
+    background-repeat:unset;
+    background-color: #ffffff;
+  }
+  .cointainer{
+    margin: 50px 17px;
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+  }
+  .leftpart{
+    height: 10%;
+    width:40%;
+  }
+  h1{
+    color:#e2fefe;
+    font-size:80px;
+     justify-content:center;
+  }
+  h3{
+    color:black;
+  }
+  .rightpart{
+    width:400%;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .loginpage{
+    display:inline-flex;
+    flex-direction:column;
+    align-items:center;
+    width:450px;
+    height:370px;
+    box-shadow:-10px -10px 16px rgb(0, 0, 0),
+    10px 10px 10px rgba(0,0,0.1);
+    border-radius:10px;
+  }
+  form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:15px 0px;
+  }
+  input{
+    width:300px;
+    height:50px;
+    margin:10px 10px;
+    padding:0px 0px;
+    outline:none;
+    border:2px solid #ccc;
+    font-size:18px;
+    border-radius:10px;
+  }
+  input[type="submit"]{
+    background-color: royalblue;
+    color:white;
+    width:105px;
+  }
+  p{
+    color:royalblue;
+  }
+  hr{
+    border:1px solid #ccc;
+    width:320px;
+    margin:20px 0px; 
+  }
+  .createaccount{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    background-color:cornflowerblue;
+    width:250 px;
+    height:50 px;
+    font-size:18px;
+    font-weight:30px;
+    color:rgb(0, 0, 0);
+  }
+  span{
+    margin:20px 0px;
+    font-size: 18px;
+    font-weight: 20px;
+     justify-content:bottom;
+  }
+
+  .button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color:  #4cadd1;
+    color: black;
+    border: 1px solid  #4cadd1;
+  }
+  
+  .button1:hover {
+    background-color: #04aa6d;
+    color: white;
+  }
