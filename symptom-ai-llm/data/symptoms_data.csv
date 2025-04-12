@@ -1,0 +1,135 @@
+DISEASE,SPECIALIST,SYMPTOMS,TREATMENTS,MEDICINES,SIDE EFFECTS(from the medicine),COLOR CODE
+Acute Flaccid Myelitis,Neurologist,"Sudden limb weakness, Loss of muscle tone, Facial droop, Difficulty moving eyes","Physical therapy, Occupational therapy, Supportive care","Intravenous immunoglobulin (IVIG), Steroids","Headache, Nausea, Risk of infection",#FFC107
+Alzheimer's Disease,Neurologist,"Memory loss, Confusion, Difficulty thinking, Mood changes","Cognitive therapy, Structured routines, Supportive care","Donepezil, Memantine","Nausea, Diarrhea, Dizziness",#8A2BE2
+Arboviral Encephalitis,Neurologist,"Fever, Headache, Confusion, Seizures","Supportive care, Hospitalization","Antiviral (supportive use only), Anticonvulsants","Drowsiness, Fatigue, Allergic reactions",#FF7F50
+Asthma,Pulmonologist,"Shortness of breath, Wheezing, Chest tightness","Inhaled corticosteroids, Bronchodilators","Albuterol, Fluticasone","Throat irritation, Rapid heartbeat",#17A2B8
+Babesiosis,Infectious Disease Specialist,"Fever, Fatigue, Muscle aches, Hemolytic anemia",Antiparasitic therapy,"Atovaquone + Azithromycin, Clindamycin + Quinine","Nausea, Tinnitus, Diarrhea",#800000
+Bacterial Vaginosis,Gynecologist,"Vaginal discharge, Odor, Itching",Antibiotics,"Metronidazole, Clindamycin","Metallic taste, Stomach upset",#E75480
+Bladder Cancer,Urologist / Oncologist,"Blood in urine, Painful urination, Pelvic pain","Surgery, Chemotherapy, Immunotherapy","BCG therapy, Cisplatin","Fatigue, Nausea, Incontinence",#1E90FF
+Breast Cancer,Oncologist,"Lump in breast, Nipple discharge, Skin dimpling","Surgery, Radiation, Chemotherapy, Hormone therapy","Tamoxifen, Doxorubicin","Nausea, Hair loss, Hot flashes",#FF69B4
+Cancer,Oncologist,"Unexplained weight loss, Fatigue, Pain","Varies by type: Surgery, Radiation, Chemotherapy",Depends on cancer type,"Nausea, Hair loss, Immunosuppression",#000000
+Carbon Monoxide Poisoning,Emergency Physician / Toxicologist,"Headache, Dizziness, Confusion, Chest pain","100% Oxygen, Hyperbaric oxygen therapy","Oxygen (not a drug), supportive meds","Oxygen toxicity (in rare cases), Lung irritation",#A9A9A9
+Cervical Cancer,Gynecologic Oncologist,"Irregular bleeding, Pelvic pain, Vaginal discharge","Surgery, Radiation, Chemotherapy","Cisplatin, Paclitaxel","Nausea, Hair loss, Fatigue",#C71585
+Chagas Disease,Infectious Disease,"Fever, Swelling, Digestive issues, Heart complications","Antiparasitic drugs, Symptom control","Benznidazole, Nifurtimox","Rash, Neuropathy, GI issues",#8B0000
+Chancroid,Infectious Disease / Urologist,"Painful genital ulcers, Swollen lymph nodes",Antibiotics,"Azithromycin, Ceftriaxone","GI upset, Allergic reactions",#FA8072
+Chickenpox,Pediatrician / Infectious Disease,"Itchy rash, Fever, Fatigue","Supportive care, Antivirals ",Acyclovir,"Nausea, Dizziness",#FFD700
+Chlamydia,Infectious Disease / Gynecologist,"Discharge, Burning during urination, Pelvic pain",Antibiotics,"Azithromycin, Doxycycline","GI upset, Sun sensitivity",#FF69B4
+Chronic Fatigue Syndrome,Rheumatologist / Neurologist,"Extreme fatigue, Sleep issues, Memory problems","Supportive therapy, Lifestyle changes","Pain relievers, Antidepressants","Drowsiness, Dependence risk",#9370DB
+Colorectal Cancer,Oncologist,"Blood in stool, Weight loss, Abdominal pain","Surgery, Chemotherapy, Radiation","Oxaliplatin, Capecitabine","Neuropathy, Nausea, Diarrhea",#228B22
+Congenital CMV Infection,Pediatric Infectious Disease,"Hearing loss, developmental delay, jaundice",Antivirals in newborns,Valganciclovir,"Bone marrow suppression, liver toxicity",#BC8F8F
+Conjunctivitis,Ophthalmologist,"Red eyes, Itching, Discharge","Eye drops, Antivirals, Antibacterials","Erythromycin drops, Artificial tears","Burning sensation, Blurred vision",#00BFFF
+COVID-19,Infectious Disease,"Fever, Cough, Shortness of breath, Fatigue, Loss of taste/smell","Supportive care, Antivirals, Oxygen therapy","Remdesivir, Paxlovid, Dexamethasone","Nausea, Liver issues, Mood changes, Immunosuppression",#708090
+Crabs (Pubic Lice Infestation),Dermatologist,"Itching in the pubic area, inflammation, blue spots",Topical insecticides,"Permethrin, Pyrethrins","Skin irritation, burning",#FFB6C1
+Creutzfeldt-Jakob Disease (CJD),Neurologist,"Rapid dementia, muscle stiffness, hallucinations",Supportive care,No cure; supportive drugs for symptoms,"Sedation, fatigue, worsening neurological symptoms",#800000
+Cryptosporidiosis,Infectious Disease,"Watery diarrhea, stomach cramps, nausea","Hydration, antidiarrheals",Nitazoxanide,"Headache, GI upset",#00CED1
+Cyclospora Infection,Infectious Disease,"Diarrhea, bloating, fatigue","Antibiotics, fluid replacement",Trimethoprim-sulfamethoxazole,"Allergic reactions, nausea",#32CD32
+Cytomegalovirus (CMV),Infectious Disease,"Fatigue, fever, sore throat, swollen glands",Antivirals for immunocompromised patients,"Ganciclovir, Valganciclovir","Neutropenia, GI upset",#A9A9A9
+Depression,Psychiatrist,"Sadness, loss of interest, fatigue, sleep changes","Psychotherapy, medication","SSRIs (Fluoxetine, Sertraline), SNRIs","Weight gain, sexual dysfunction, drowsiness",#4682B4
+Diabetes (Type 1 & 2),Endocrinologist,"Frequent urination, excessive thirst, fatigue, blurred vision","Lifestyle change, insulin, oral meds","Insulin, Metformin, GLP-1 agonists","Hypoglycemia, GI issues, weight gain or loss",#FFA500
+Diphtheria,Infectious Disease,"Sore throat, fever, swollen glands, thick gray membrane in throat","Antitoxin, Antibiotics","Erythromycin, Penicillin","Nausea, allergic reactions",#F08080
+Endometrial Cancer,Gynecologic Oncologist,"Abnormal vaginal bleeding, pelvic pain","Surgery, Radiation, Hormone therapy","Medroxyprogesterone, Tamoxifen","Weight gain, blood clots",#FFC0CB
+Endometrial Cancer,Gynecologist / Oncologist,"Abnormal bleeding, pelvic pain, weight loss, fatigue","Surgery, radiation, hormone therapy, chemotherapy","Progestins, Tamoxifen, Chemotherapy drugs","Nausea, fatigue, hair loss, increased risk of blood clots",#FFD1DC
+Endometriosis,Gynecologist,"Pelvic pain, infertility, painful periods, fatigue, heavy bleeding","Hormonal therapy, pain relief, surgery","GnRH agonists, NSAIDs, birth control pills","Hot flashes, bone thinning, nausea, dizziness",#FFE4B5
+Harmful Algal Blooms,Environmental/Toxicology,"Respiratory issues, skin rashes, GI problems",Supportive care,N/A,N/A,#7FFFD4
+Heart & Stroke,Cardiologist / Neurologist,"Chest pain, weakness, numbness, slurred speech","Medications, Surgery, Rehab","Aspirin, Clopidogrel, Statins, tPA","Bleeding risk, liver effects",#DC143C
+Heart Disease & Stroke,Cardiologist / Neurologist,"Chest pain, fatigue, shortness of breath, slurred speech, paralysis","Lifestyle changes, surgery, clot-busting drugs, rehab","Aspirin, Beta-blockers, Statins, Anticoagulants","Bleeding, dizziness, muscle pain, fatigue",#FFC0CB
+HIV/AIDS,Infectious Disease,"Fatigue, weight loss, recurrent infections",Antiretroviral therapy (ART),"Tenofovir, Efavirenz, Dolutegravir","Liver issues, nausea, sleep disturbance",#8B0000
+Kidney Cancer,Urologic Oncologist,"Blood in urine, back pain, weight loss","Surgery, Targeted therapy","Sunitinib, Pazopanib","Fatigue, hypertension, hand-foot syndrome",#556B2F
+Leukemia,Hematologist,"Fatigue, frequent infections, easy bruising","Chemotherapy, Bone marrow transplant","Cytarabine, Imatinib","Immune suppression, nausea",#FFD700
+Measles,Infectious Disease / Pediatrician,"Fever, cough, runny nose, red eyes, rash that spreads","Supportive care, vaccination","Acetaminophen, Vitamin A","Liver damage (from overdose), nausea",#FFE4E1
+Measles,Infectious Disease,"Fever, cough, runny nose, red eyes, rash","Vaccination, supportive care",MMR vaccine,"Mild rash, fever, swelling",#FFC0CB
+Meningitis,Neurologist / Infectious Disease,"Sudden fever, headache, stiff neck, nausea, confusion, light sensitivity","Antibiotics (for bacterial), rest (for viral)","Ceftriaxone, Ampicillin (bacterial), Antivirals (viral)","Rash, diarrhea, allergic reaction",#F0E68C
+Meningitis,Neurologist / Infectious Disease,"Fever, headache, stiff neck, nausea, sensitivity to light","Antibiotics (bacterial), supportive care (viral)","Ceftriaxone, Acyclovir","Allergic reaction, nausea",#ADD8E6
+Meningococcal Disease,Infectious Disease Specialist,"High fever, stiff neck, nausea, purplish rash, photophobia","IV antibiotics, supportive care, vaccination","Penicillin G, Cefotaxime","Seizures, diarrhea, yeast infection",#FFF0F5
+Meningococcal Disease,Infectious Disease / Neurologist,"Sudden fever, headache, stiff neck, nausea, rash","Antibiotics, urgent hospitalization","Penicillin, Rifampin","Nausea, diarrhea, allergic reaction",#F08080
+Methyl Parathion Poisoning,Toxicologist / Emergency Medicine,"Dizziness, nausea, difficulty breathing, muscle twitching, seizures","Atropine, supportive treatment, decontamination","Atropine, Pralidoxime","Dry mouth, blurred vision, rapid heartbeat",#FFEFD5
+Methyl Parathion Poisoning,Toxicologist / Emergency Medicine,"Headache, dizziness, difficulty breathing, convulsions","Decontamination, Atropine, supportive care","Atropine, Pralidoxime","Dry mouth, blurred vision, confusion",#FFE4B5
+Molluscum Contagiosum,Dermatologist,"Small, firm, painless bumps with dimple in center","Cryotherapy, curettage, topical therapy","Imiquimod (topical), Cantharidin","Skin irritation, redness, blistering",#FAFAD2
+Molluscum Contagiosum,Dermatologist,"Small, flesh-colored or pink bumps with dimple in center","Cryotherapy, curettage, topical treatments",Cantharidin,"Blistering, redness",#E6E6FA
+MRSA (Staph Infection),Infectious Disease Specialist,"Red, swollen, painful skin, pus, fever","Drainage, strong antibiotics","Vancomycin, Linezolid","Kidney damage, nausea, diarrhea",#F5DEB3
+Naegleria Fowleri (PAM),Infectious Disease / Neurologist,"Severe headache, fever, nausea, vomiting, stiff neck, confusion, seizures, hallucinations","Antifungal and antimicrobial agents, supportive care","Amphotericin B, Miltefosine","Kidney toxicity, vomiting, liver damage",#E6E6FA
+Neonatal Abstinence Syndrome,Neonatologist / Pediatrician,"Tremors, seizures, poor feeding, irritability, dehydration, vomiting","IV fluids, feeding support, medications for withdrawal","Morphine (controlled), Methadone","Respiratory depression, sedation, dependence",#FFFAF0
+Non-Gonococcal Urethritis (NGU),Urologist / Infectious Disease,"Burning during urination, discharge, itching or discomfort of the urethra",Antibiotics,"Azithromycin, Doxycycline","GI upset, sun sensitivity, rash",#FFFACD
+Norovirus Infection,Gastroenterologist / Infectious Disease,"Diarrhea, vomiting, nausea, stomach cramps, low-grade fever","Hydration, rest, antidiarrheals","Loperamide (optional), oral rehydration salts","Constipation, dizziness (rare from meds)",#F5F5DC
+Oral Cancer,Oncologist / ENT,"Mouth sore that doesn’t heal, persistent mouth pain, difficulty chewing or swallowing","Surgery, radiation, chemotherapy","Cisplatin, 5-FU","Hair loss, fatigue, nausea",#FFEBCD
+Pertussis (Whooping Cough),Infectious Disease / Pulmonologist,"Severe coughing fits, ""whooping"" sound, vomiting after coughing, exhaustion","Antibiotics, supportive care","Azithromycin, Erythromycin","Nausea, diarrhea, abdominal pain",#FFF0F5
+Pneumococcal Disease,Infectious Disease / Pulmonologist,"Fever, cough, chest pain, confusion, ear pain, stiff neck (depending on infection site)","Antibiotics, hospitalization in severe cases","Penicillin, Ceftriaxone","Allergic reactions, GI upset, yeast infections",#E0FFFF
+Polio,Neurologist / Infectious Disease,"Fever, sore throat, headache, muscle weakness, paralysis (in severe cases)","Supportive care, physical therapy",No cure; supportive care only,N/A – symptom management,#FAFAD2
+Prostate Cancer,Urologist / Oncologist,"Difficulty urinating, pelvic discomfort, blood in urine or semen, erectile dysfunction","Surgery, radiation, hormone therapy, chemotherapy","Leuprolide, Docetaxel","Hot flashes, fatigue, bone thinning, nausea",#F5DEB3
+Psoriasis,Dermatologist,"Red patches of skin with silvery scales, dry/cracked skin, itching, burning","Topical treatments, light therapy, systemic medications","Methotrexate, Biologics (e.g., adalimumab)","Liver issues, immune suppression, skin irritation",#F0FFF0
+Rabies,Infectious Disease Specialist,"Fever, anxiety, confusion, agitation, hallucinations, hydrophobia","Post-exposure prophylaxis (PEP), supportive care","Rabies vaccine, HRIG (immune globulin)","Injection site pain, headache, dizziness",#FFE4E1
+Respiratory Syncytial Virus,Pulmonologist / Pediatrician,"Runny nose, cough, wheezing, fever","Supportive care, oxygen, fluids","Ribavirin (rare), Palivizumab (preventive)","Anemia, rash, fever",#ADD8E6
+Rocky Mountain Spotted Fever,Infectious Disease Specialist,"Fever, headache, rash, nausea, muscle pain",Antibiotics (early treatment critical),Doxycycline,"Photosensitivity, upset stomach",#F0E68C
+Rotavirus,Pediatrician / Gastroenterologist,"Severe diarrhea, vomiting, fever, abdominal pain","Hydration, supportive care",Rotavirus vaccine,"Irritability, mild fever, vomiting",#FFFACD
+Rubella,Infectious Disease Specialist,"Mild fever, rash, swollen lymph nodes","Symptom relief, isolation",MMR vaccine (preventive),"Mild rash, joint pain, fever",#E0FFFF
+Salmonella,Infectious Disease Specialist,"Diarrhea, fever, stomach cramps","Fluids, rest, in some cases antibiotics","Ciprofloxacin, Azithromycin (in severe cases)","Nausea, headache, potential antibiotic resistance",#FFEBCD
+Sarcoidosis,Pulmonologist / Rheumatologist,"Fatigue, swollen lymph nodes, cough, shortness of breath, skin rashes","Anti-inflammatory drugs, corticosteroids","Prednisone, Methotrexate","Weight gain, mood swings, immune suppression",#FDF5E6
+SARS,Pulmonologist / Infectious Disease,"High fever, chills, headache, body aches, dry cough, shortness of breath","Supportive care, oxygen, antiviral & steroids (in some cases)","Ribavirin, corticosteroids (experimental)","Anemia, insomnia, nausea",#E6E6FA
+SARS (Healthcare Providers),Pulmonologist / Infectious Disease,"High fever, chills, headache, discomfort, body aches, mild respiratory symptoms","Supportive care, oxygen therapy","Ribavirin, corticosteroids (experimental)","Anemia, nausea, insomnia",#E6E6FA
+Scabies,Dermatologist / General Physician,"Intense itching, pimple-like rash","Topical creams, oral medication","Permethrin, Ivermectin","Skin irritation, dizziness, nausea",#FFEFD5
+Seoul Virus,Infectious Disease Specialist,"Fever, headache, chills, nausea, abdominal pain, blurred vision",Supportive care,None specific (symptom-based),Not applicable,#FAFAD2
+Sexually Transmitted Diseases,Gynecologist / Urologist,"Often asymptomatic; discharge, sores, burning urination","Antibiotics, antivirals","Penicillin, Acyclovir, Azithromycin","Nausea, allergic reactions, diarrhea",#FFB6C1
+Shigellosis,Gastroenterologist / Infectious Disease,"Diarrhea (often bloody), fever, stomach cramps","Hydration, antibiotics if severe","Ciprofloxacin, Azithromycin","GI upset, allergic reactions",#FFF0F5
+Skin Cancer,Dermatologist / Oncologist,"Abnormal moles, lesions, skin discoloration","Surgical removal, radiation, chemotherapy","Imiquimod, 5-fluorouracil","Skin irritation, fatigue",#F8F8FF
+Stomach Cancer,Gastroenterologist / Oncologist,"Bloating, stomach pain, weight loss, vomiting, indigestion","Surgery, chemotherapy, radiation","Cisplatin, 5-FU, Capecitabine","Hair loss, nausea, immune suppression",#FFEBCD
+Stress,Psychologist / Psychiatrist,"Anxiety, muscle tension, headache, insomnia, irritability","Therapy, relaxation techniques, medication","SSRIs, Benzodiazepines","Drowsiness, dependency, nausea",#D3D3D3
+Stroke,Neurologist,"Sudden numbness, confusion, trouble speaking, vision issues, loss of balance","Clot removal, rehab, medication","tPA, Aspirin, Warfarin","Bleeding, headache, bruising",#E0FFFF
+Syphilis,Infectious Disease / STD Specialist,"Sores, rash, fever, swollen glands, organ damage (if untreated)",Antibiotic treatment,Penicillin G,"Allergic reaction, soreness at injection site",#FFE4B5
+Testicular Cancer,Urologist / Oncologist,"Lump/swelling in testicle, discomfort, heaviness in scrotum, back pain","Surgery, radiation, chemotherapy","Cisplatin, Bleomycin, Etoposide","Nausea, fatigue, hair loss, fertility issues",#F0FFF0
+Tetanus,Infectious Disease / ER,"Jaw cramping, muscle stiffness, headache, difficulty swallowing","Supportive care, antitoxin, vaccination","Tetanus Immune Globulin, Metronidazole","Allergic reactions, nausea, dizziness",#F5DEB3
+Thyroid Cancer,Endocrinologist / Oncologist,"Lump in neck, trouble swallowing, hoarseness, swollen lymph nodes","Surgery, radioactive iodine, hormone therapy","Levothyroxine, Radioactive Iodine","Palpitations, weight loss, dry mouth",#FFFACD
+Trichomoniasis,Gynecologist / Urologist,"Often asymptomatic; itching, discharge, discomfort during urination or sex",Oral medication,"Metronidazole, Tinidazole","Nausea, metallic taste, headache",#FFFAF0
+Tuberculosis (TB),Pulmonologist / Infectious Disease,"Persistent cough, chest pain, weight loss, night sweats, fatigue",Long-term antibiotic therapy,"Isoniazid, Rifampin, Ethambutol, Pyrazinamide","Liver toxicity, vision problems, rash",#E0FFFF
+Vaginitis,Gynecologist,"Vaginal itching, discharge, odor, burning, pain during urination or intercourse","Antifungal, antibiotic or antiparasitic treatment","Metronidazole, Clotrimazole, Fluconazole","Nausea, headache, abdominal cramps, allergic reaction",#E6E6FA
+West Nile Virus (WNV),Infectious Disease Specialist,"Fever, headache, body aches, skin rash, swollen lymph nodes","Supportive care (fluids, pain relief, hospitalization if severe)",No specific antiviral treatment,N/A (supportive care only),#F0FFF0
+Yellow Fever (Vaccine Info),Travel Medicine / Immunologist,"(Not a disease case, but vaccination-related)",Vaccination,Yellow Fever Vaccine,"Headache, muscle pain, mild fever, rarely allergic reaction",#FFFFE0
+Liver Cancer,Hepatologist / Oncologist,"Abdominal pain, jaundice, weight loss","Surgery, Chemotherapy, Immunotherapy","Sorafenib, Lenvatinib","Fatigue, diarrhea, hypertension",#B22222
+Lung Cancer,Pulmonologist / Oncologist,"Coughing (sometimes with blood), chest pain, shortness of breath","Surgery, Chemotherapy, Radiation","Cisplatin, Gefitinib","Nausea, hair loss, lung inflammation",#708090
+Multiple Myeloma,Hematologist,"Bone pain, fatigue, frequent infections","Chemotherapy, Stem cell transplant","Bortezomib, Lenalidomide","Neuropathy, low blood counts",#9932CC
+Oral Cancer,Oncologist / ENT,"Sores, mouth pain, difficulty swallowing","Surgery, Radiation","Cisplatin, Cetuximab","Taste changes, dry mouth",#A52A2A
+Oropharyngeal Cancer,ENT / Oncologist,"Sore throat, lump in neck, ear pain	","Radiation, Surgery","Fluorouracil, Docetaxel","Mucositis, fatigue",#D2691E
+Ovarian Cancer,Gynecologic Oncologist,"Bloating, pelvic pain, difficulty eating","Surgery, Chemotherapy","Carboplatin, Paclitaxel","Hair loss, low blood count",#FF69B4
+Pancreatic Cancer,Oncologist,"Jaundice, weight loss, abdominal pain","Surgery, Chemotherapy","Gemcitabine, Nab-paclitaxel","Nausea, lowered immunity",#000000
+Prostate Cancer,Urologist / Oncologist,"Difficulty urinating, pelvic discomfort, blood in urine/semen","Hormone therapy, chemotherapy","Fatigue, nausea, bone thinning","Surgery, radiation, hormone therapy",#1f77b4
+Skin Cancer,Dermatologist / Oncologist,"New growths, changes in moles, sores that don't heal","Imiquimod, fluorouracil","Redness, peeling, irritation","Surgical removal, topical treatments",#ff7f0e
+Stomach Cancer,Gastroenterologist / Oncologist,"Bloating, indigestion, weight loss, nausea","Chemotherapy, targeted therapy","Fatigue, loss of appetite, infection risk","Surgery, chemotherapy, radiation",#2ca02c
+Testicular Cancer,Urologist / Oncologist,"Lump in testicle, pain, swelling, back pain","Chemotherapy, cisplatin","Nausea, hearing loss, infertility","Surgery (orchiectomy), radiation, chemo",#d62728
+Thyroid Cancer,Endocrinologist / Oncologist,"Neck lump, hoarseness, difficulty swallowing","Levothyroxine, radioactive iodine","Fatigue, dry mouth, voice changes","Surgery, radioactive iodine, thyroid meds",#9467bd
+E. Coli,Infectious Disease,"Diarrhea, abdominal pain, nausea",Antibiotics (in some cases),"Cramps, resistance risk","Hydration, rest, antibiotics if needed",#1f77b4
+Ehrlichiosis,Infectious Disease,"Fever, chills, muscle aches",Doxycycline,"Nausea, light sensitivity",Antibiotics,#ff7f0e
+Endometrial Cancer,Gynecologist / Oncologist,"Vaginal bleeding, pelvic pain","Progestins, chemo drugs","Fatigue, nausea","Surgery, radiation, chemotherapy",#2ca02c
+Enterovirus,Infectious Disease,"Fever, runny nose, rash",Supportive care,Rare – complications possible,"Rest, fluids, symptom relief",#d62728
+Fibroids,Gynecologist,"Heavy bleeding, pelvic pain, frequent urination","Hormonal therapy, surgery","GnRH agonists, birth control","Menopausal symptoms, hormonal effects",#FF69B4
+Fibromyalgia,Rheumatologist,"Widespread pain, fatigue, sleep disturbances","Exercise, CBT, medications","Duloxetine, Pregabalin","Drowsiness, dizziness, weight gain",#8A2BE2
+Genital Herpes,Dermatologist / STD Specialist,"Painful blisters or sores, itching, flu-like symptoms",Antiviral medication,"Acyclovir, Valacyclovir","Nausea, headache",#CD5C5C
+Giardiasis,Infectious Disease,"Watery diarrhea, cramps, bloating, fatigue","Antibiotics, rehydration","Metronidazole, Tinidazole","Metallic taste, nausea",#00CED1
+Gonorrhea,STD Specialist,"Painful urination, discharge, pelvic pain",Antibiotics,Ceftriaxone + Azithromycin,"GI upset, allergic reactions",#C71585
+Gout,Rheumatologist,"Sudden joint pain, swelling, redness (often in big toe)","NSAIDs, colchicine, uric acid reducers","Allopurinol, Colchicine","GI upset, rash",#B22222
+Group A Streptococcus Infections,Infectious Disease / Pediatrician,"Sore throat, skin infection, fever, rash",Antibiotics,"Penicillin, Amoxicillin","Allergic reaction, GI issues",#FFA07A
+Haff Disease,Toxicologist,"Muscle pain, weakness, dark urine","Hospitalization, IV fluids, supportive care",None specific,N/A,#8B0000
+Hantaviruses,Infectious Disease,"Fever, fatigue, muscle aches, respiratory distress","Supportive care, ICU if needed",Ribavirin (experimental),"Hemorrhage risk, anemia",#556B2F
+Harmful Algal Blooms (HABs),Toxicologist / Environmental Specialist,"Skin irritation, eye irritation, GI issues, respiratory distress",Symptomatic care,None specific,N/A,#00FA9A
+Head Lice,Dermatologist / Pediatrician,"Scalp itching, visible lice/nits","Topical pediculicides, combing","Permethrin, Ivermectin","Irritation, resistance risk",#D8BFD8
+Headaches,Neurologist,Throbbing or steady pain in head or neck,"Pain relief, lifestyle changes, preventative medications","Ibuprofen, Triptans, Amitriptyline","GI upset, drowsiness",#808080
+Heart Disease,Cardiologist,"Chest pain, fatigue, shortness of breath","Lifestyle changes, medication, surgery","Beta-blockers, ACE inhibitors, Statins","Low blood pressure, fatigue",#DC143C
+Helicobacter Pylori,Gastroenterologist,"Stomach pain, nausea, bloating, ulcers",Antibiotic therapy,"Amoxicillin, Clarithromycin, PPI","GI upset, antibiotic resistance",#6495ED
+High Blood Pressure (Hypertension),Cardiologist / Internist,"Often asymptomatic, may cause headaches or vision issues","Lifestyle change, antihypertensives","Lisinopril, Amlodipine, Hydrochlorothiazide","Cough, dizziness, electrolyte imbalance",#800000
+Histoplasmosis,Infectious Disease / Pulmonologist,"Cough, chest pain, fatigue, fever",Antifungal medications,"Itraconazole, Amphotericin B","Liver toxicity, kidney damage",#708090
+Heat-Related Illnesses,Emergency Medicine,"Heat cramps, heat exhaustion, heat stroke","Cooling, hydration, IV fluids",None specific,N/A,#FF4500
+Human Metapneumovirus,Infectious Disease / Pediatrician,"Cough, fever, nasal congestion, wheezing",Supportive care,None specific,N/A,#20B2AA
+Human Papillomavirus (HPV),Gynecologist / Dermatologist,"Warts, cervical dysplasia, cancer","Topical agents, surgical removal, vaccination","Imiquimod, Podofilox",Skin irritation,#9932CC
+Influenza (Flu),Infectious Disease / Primary Care,"Fever, chills, body aches, fatigue, cough","Rest, antivirals","Oseltamivir, Zanamivir","Nausea, vomiting",#4682B4
+"Viral Hepatitis (A, B, C)",Hepatologist / Infectious Disease,"Jaundice, fatigue, abdominal pain, dark urine","Antivirals (B, C), supportive care (A)","Tenofovir, Sofosbuvir, Ribavirin","Liver toxicity, fatigue",#F4A460
+Incontinence,Urologist,"Urge to urinate, leakage, frequent urination","Pelvic floor therapy, medications, surgery","Oxybutynin, Mirabegron","Dry mouth, constipation",#B0C4DE
+Influenza (Flu),Primary Care / Infectious Disease,"Fever, chills, cough, fatigue, muscle aches","Rest, hydration, antivirals","Oseltamivir, Zanamivir","Nausea, vomiting",#4682B4
+Kidney Cancer,Oncologist / Urologist,"Blood in urine, back pain, weight loss","Surgery, targeted therapy, immunotherapy","Sunitinib, Nivolumab","Fatigue, high blood pressure, rash",#556B2F
+Lead Poisoning,Toxicologist / Pediatrician,"Developmental delay, abdominal pain, irritability",Chelation therapy,"EDTA, Dimercaprol","Kidney damage, hypertension",#DAA520
+Legionnaires' Disease,Pulmonologist / Infectious Disease,"Cough, fever, shortness of breath, muscle aches","Antibiotics, supportive care","Levofloxacin, Azithromycin","Nausea, diarrhea",#4682B4
+Leptospirosis,Infectious Disease,"Fever, chills, muscle aches, vomiting, jaundice",Antibiotics,"Doxycycline, Penicillin","GI upset, photosensitivity",#90EE90
+Leukemia,Hematologist / Oncologist,"Fatigue, frequent infections, bruising, bleeding","Chemotherapy, radiation, stem cell transplant","Imatinib, Cytarabine","Nausea, immunosuppression",#A52A2A
+Listeriosis,Infectious Disease,"Fever, muscle aches, GI symptoms, meningitis",Antibiotics,"Ampicillin, Gentamicin","Allergic reactions, nephrotoxicity",#87CEEB
+Liver Cancer,Oncologist / Hepatologist,"Abdominal pain, weight loss, jaundice, fatigue","Surgery, chemotherapy, radiation, targeted therapy","Sorafenib, Lenvatinib","Fatigue, hand-foot syndrome",#FFA500
+Lung Cancer,Oncologist / Pulmonologist,"Cough, chest pain, weight loss, shortness of breath","Surgery, chemotherapy, radiation, immunotherapy","Pembrolizumab, Cisplatin","Nausea, fatigue, hair loss",#696969
+Lupus,Rheumatologist,"Fatigue, joint pain, rash, fever, organ damage","Immunosuppressants, corticosteroids, lifestyle changes","Hydroxychloroquine, Prednisone","Weight gain, infection risk",#9932CC
+Lyme Disease,Infectious Disease,"Fatigue, rash, joint pain, neurological symptoms",Antibiotics,"Doxycycline, Amoxicillin","Photosensitivity, GI upset",#556B2F
+Lymphogranuloma Venereum (LGV),STD Specialist,"Genital ulcers, swollen lymph nodes, rectal pain",Antibiotics,Doxycycline,"Photosensitivity, GI upset",#BA55D3
